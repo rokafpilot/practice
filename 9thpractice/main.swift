@@ -24,3 +24,4 @@ var someCat: Tiger = Cat()
 
 let someLion: someCat as? Lion
 
+let someTiger: someCat as? Tiger
